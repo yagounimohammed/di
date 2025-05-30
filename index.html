@@ -39,6 +39,20 @@
     .btn-link:hover {
       background-color: #1c5d89;
     }
+.btn-cps {
+  background-color: #8e44ad;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+.btn-cps:hover {
+  background-color: #6c3483;
+}
     main {
       max-width: 1000px;
       margin: 40px auto;
@@ -72,6 +86,7 @@
     <div class="button-container">
       <a href="https://yagounimohammed.github.io/main/" class="btn-link">Accueil</a>
       <a href="https://yagounimohammed.github.io/mecontacter/" class="btn-link">Me Contacter</a>
+<a href="https://yagounimohammed.github.io/cps/" class="btn-cps" target="_blank">Communications & Publications</a>
     </div>
   </header>
 
