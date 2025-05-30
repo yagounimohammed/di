@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Domaine d'intégration – YAGOUNI Mohammed</title>
+  <title>Domaine d'intérêt – YAGOUNI Mohammed</title>
   <style>
     body {
       margin: 0;
@@ -81,7 +81,7 @@
 </head>
 <body>
   <header>
-    <h1>Domaine d'intégration</h1>
+    <h1>Domaine d'intérêt</h1>
     <p>Prof. YAGOUNI Mohammed</p>
     <div class="button-container">
       <a href="https://yagounimohammed.github.io/main/" class="btn-link">Accueil</a>
